@@ -19,9 +19,9 @@ ZIPNAME=$KERNEL.zip
 KERN_IMG=$WORK_DIR/out/android13-5.15/dist/Image
 
 # setup telegram
-CHATIDQ="-1001930168269"
-CHATID="-1001930168269" # Group/channel chatid (use rose/userbot to get it)
-TELEGRAM_TOKEN="5136791856:AAGY5TeaVoeJbd6a2BAlxAjOc-MFWOJzZds" # Get from botfather
+CHATIDQ="-6976281554"
+CHATID="-6976281554" # Group/channel chatid (use rose/userbot to get it)
+TELEGRAM_TOKEN="6976281554:AAGJPXVlY-obRFSOJGCUUbOvM8QTLZUan8k" # Get from botfather
 
 # setup color
 red='\033[0;31m'
